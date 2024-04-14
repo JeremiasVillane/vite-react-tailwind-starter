@@ -1,8 +1,7 @@
 {
   "recommendations": [
     "dbaeumer.vscode-eslint",
-    "dsznajder.es7-react-js-snippets",
-    "mhutchie.git-graph",
-    "oderwat.indent-rainbow"
+    "esbenp.prettier-vscode",
+    "EditorConfig.EditorConfig"
   ]
 }
