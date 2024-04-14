@@ -12,7 +12,7 @@ type LayoutProps = {
 
 const Layout = ({ children }: LayoutProps) => {
   return (
-    <ThemeProvider defaultTheme="system" storageKey="vite-ui-theme">
+    <ThemeProvider defaultTheme="light" storageKey="vite-ui-theme">
       <Meta />
       <div className="flex min-h-screen flex-col dark:bg-black dark:text-white">
         <Header />

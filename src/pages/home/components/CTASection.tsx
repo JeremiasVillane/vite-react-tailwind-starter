@@ -1,4 +1,5 @@
-const repoName = "sozonome/vite-react-tailwind-starter";
+const repoName =
+  "JeremiasVillane/vite-react-typescript-tailwind-docker-starter";
 
 const CTASection = () => {
   return (
