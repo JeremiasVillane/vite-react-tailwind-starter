@@ -1,6 +1,7 @@
 // updated 2024-04-10 13:52
 // https://github.com/antfu/vscode-file-nesting-config
 {
+  "files.eol": "\n",
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.expand": false,
   "explorer.fileNesting.patterns": {
