@@ -1,9 +1,12 @@
 # vite-react-typescript-tailwind-docker-starter
 
-Template to initialize a Vite React-SWC-TS app with Docker setup and TailwindCSS, shadcn/ui ready.
+Template to initialize a Vite React-SWC-TS app with Docker setup.
 
 - ⚡ blazing fast dev server and build
 - 🔗 route management added (`react-router-dom` configured)
+- 🗄️ Global persisting store with [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
+- ✨ [TailwindCSS](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/) ready
+- 🛥️ Dockerfile preconfigured
 
 ## Getting Started
 
